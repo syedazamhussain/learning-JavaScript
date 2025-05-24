@@ -1,0 +1,35 @@
+#box{
+    height: 250px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 3px solid black;
+
+}
+
+.newDiv{
+    height: 100px;
+    width: 100px;
+    background-color: dodgerblue;
+    color: white;
+    border: 3px solid black;
+    margin: 0px 0px 0px 120px;
+
+}
+
+.pQst{
+    background-color: yellow;
+    color: rgb(56, 9, 245);
+    border: 5px solid brown;
+    font-size: large;
+}
+
+.para{
+    background-color: rgb(255, 0, 191);
+    color: rgb(56, 9, 245);
+    border: 5px solid rgb(42, 165, 97);
+    font-size: large;
+}
+.nClass{
+    background-color: aquamarine;
+}
