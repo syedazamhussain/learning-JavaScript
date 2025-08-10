@@ -119,9 +119,6 @@ for (let i = 0; i < number.length; i++) {
 console.log("Original:", number);
 console.log("Filtered (>10):", filtered);
 
-
-
-//-------------------------
 let pin = [];
 for(let a =0; a <5 ;a++){
     let userPin = prompt("Enter pin of all members");
@@ -136,7 +133,7 @@ for(let a =0; a <pin.length; a++){
 }
 console.log(pin);
 console.log(filterPin);
-*/
+
 //----------------SIX-6-QUESTION----------------------------------
 let fEmployee = [];
 let employees = [
@@ -170,3 +167,4 @@ let aEmployee = pEmployee.reduce((o, p) => o + p.salary, 0);  //REDUCE
 console.log("FILTERED, MAP, REDUCE", pEmployee);
 console.log("Upper Case", uEmployee);
 console.log("Total Salary", aEmployee);
+
